@@ -4,7 +4,7 @@ tags:
   - javascript
 emoji: 🗒️
 link: https://github.com/lvdezhong
-modified: 2021-04-23
+modified: 2019-05-13
 ---
 
 # 防抖（debounce）
