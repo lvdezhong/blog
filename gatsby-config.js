@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'gatsby-starter-code-notes',
-    description: `A starter for gatsby-theme-code-notes`,
-    author: 'Zander',
+    title: 'blog',
+    description: `前端、React、Typescript`,
+    author: 'ldz',
   },
   plugins: [
     {
@@ -10,7 +10,7 @@ module.exports = {
       options: {
         contentPath: 'notes',
         basePath: '/',
-        showThemeInfo: true,
+        showThemeInfo: false,
         showDescriptionInSidebar: true,
         showDate: true,
         // gitRepoContentPath: 'https://github.com/mrmartineau/gatsby-starter-code-notes/tree/master/notes',
